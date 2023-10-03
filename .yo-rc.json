@@ -1,0 +1,17 @@
+{
+  "generator-ui5-ts-app": {
+    "namespace": "ui5.cv",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.119.0",
+    "author": "Andrei Sabau",
+    "initrepo": false,
+    "tstypes": "@openui5/types",
+    "tstypesVersion": "1.119.0",
+    "appId": "ui5.cv",
+    "appURI": "ui5/cv",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_horizon",
+    "gte11150": true,
+    "setupCompleted": true
+  }
+}
